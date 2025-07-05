@@ -21,11 +21,3 @@ A simple Flutter app that plays musical notes when you press buttons. This proje
 - A device or emulator to run the app
 
 ---
-
-### 🔧 Installation Steps
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/flutter-xylophone.git
-   cd flutter-xylophone
