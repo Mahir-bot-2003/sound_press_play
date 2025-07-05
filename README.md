@@ -1,16 +1,31 @@
-# sound_app
+# 🎵 Flutter Xylophone App
 
-A new Flutter project.
+A simple Flutter app that plays musical notes when you press buttons. This project uses the `audioplayers` package to play local `.wav` files from the `assets` directory.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📱 Features
 
-A few resources to get you started if this is your first Flutter project:
+- Plays 7 different musical notes using on-screen buttons.
+- Fullscreen button layout (each button fills equal vertical space).
+- Colorful buttons for easy note recognition.
+- Simple and clean UI.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Flutter SDK installed ([Install Flutter](https://flutter.dev/docs/get-started/install))
+- A device or emulator to run the app
+
+---
+
+### 🔧 Installation Steps
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/your-username/flutter-xylophone.git
+   cd flutter-xylophone
